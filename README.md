@@ -1,4 +1,4 @@
-# MatchMyResume - Machine Learning Component
+# MatchMyResume
 
 ## 🎯 Project Overview
 
@@ -67,38 +67,11 @@ User Profile Input → Feature Extraction → Job Database Query
                                     Ranked Job Recommendations
 ```
 
-## 📈 Impact on Overall Platform
-
-My ML component enables:
-
-1. **Smart Job Hunting**: Automatically identifies the most relevant opportunities from multiple job sites
-2. **Tailored Resumes**: Provides data-driven insights for AI-powered resume customization
-3. **Interview Preparation**: Extracts key skill areas and topics for personalized interview questions
-4. **Efficient Matching**: Reduces job search time by presenting only highly relevant positions
-
 ## 🎓 Hackathon Highlights
 
 - Successfully processed and ranked **40+ job listings** in real-time
 - Achieved **100% skill match** for multiple high-relevance positions
 - Implemented **weighted scoring system** balancing multiple factors
-- Created **scalable ML pipeline** for production deployment
-
-## 🚀 Future Enhancements
-
-As outlined in the project roadmap:
-
-- **Enhanced NLP Models**: Incorporate transformer-based models for better semantic understanding
-- **Personalized CV Builder**: Extend ML model to auto-generate keyword-optimized CVs
-- **AI Interview Bot Integration**: Develop ML-powered mock interview system
-- **Continuous Learning**: Implement feedback loops to improve matching accuracy over time
-
-## 📸 Results Preview
-
-The ML model generates comprehensive job matching reports with:
-- Extraction confirmation and data validation
-- Top job matches with percentage scores
-- Detailed similarity metrics (skill-based and description-based)
-- Final ranked recommendations for immediate action
 
 ## 🤝 Team Contribution
 
@@ -120,16 +93,6 @@ The ML model generates results in CSV format (`resume_skills_output.csv`) contai
 - Skill similarity percentages
 - Description similarity percentages
 - Final compatibility scores
-
-## 💡 Technical Skills Demonstrated
-
-- Machine Learning Algorithm Development
-- Natural Language Processing
-- Feature Engineering
-- Data Pipeline Design
-- Python Programming
-- Model Evaluation & Optimization
-- Real-time Scoring Systems
 
 ---
 
